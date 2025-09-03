@@ -1,6 +1,6 @@
-## Name
+* ## Name
 MALAIKA ZAIM
-## Degree Program
++ ## Degree Program
 BS Software Engineering @ FAST NU KHI
-## Hobby
-Novel writing
+- ## Hobby
+Problem Solving & writing
