@@ -10,5 +10,5 @@ through code & creativity.
   2. *Machine learning.*
 
 + ### My interests include 
-  1. Building clean and responsive frontends using *HTML, CSS,* and *JavaScript* 
+  1. Building *clean and responsive* frontends using *HTML, CSS,* and *JavaScript* 
   2. Exploring data-driven solutions with *Python* for *machine learning*.
