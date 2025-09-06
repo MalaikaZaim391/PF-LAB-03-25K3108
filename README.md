@@ -2,11 +2,10 @@
 * ### An aspiring developer who enjoys
 1. *Learning*
 2. *Building*
-3. *Solving problems*
-through code & creativity.
+3. *Solving problems* through **code** & **creativity**.
 
 - ### Passionate about 
 1. *Web development*
 2. *Machine learning.*
 
-+ ### ***My interests also include building clean and responsive frontends using HTML, CSS, and JavaScript, and exploring data-driven solutions with Python for machine learning***
++ ***My interests also include building clean and responsive frontends using HTML, CSS, and JavaScript, and exploring data-driven solutions with Python for machine learning***
