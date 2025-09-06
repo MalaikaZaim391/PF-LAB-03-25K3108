@@ -9,4 +9,4 @@ through code & creativity.
 1. *Web development*
 2. *Machine learning.*
 
-+ ***My interests include building clean and responsive frontends using HTML, CSS, and JavaScript, and exploring data-driven solutions with Python for machine learning***
++ ###***My interests include building clean and responsive frontends using HTML, CSS, and JavaScript, and exploring data-driven solutions with Python for machine learning***###
